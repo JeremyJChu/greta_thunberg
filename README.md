@@ -22,6 +22,10 @@ The report can be found [here](https://github.com/JeremyJChu/greta_thunberg/blob
 # How to Use
 If you're interested, take a look at our paper and the results. Unfortunately this project was not designed to be reproducible, however all the data we've used is included [here](https://github.com/JeremyJChu/greta_thunberg/tree/main/inputs/data). 
 
+# Changelog
+2021-01-28:
+- Added project report, datasets, gephi files. R scripts tbd. 
+
 # Meta
 Jeremy Chu
 Yadi He
